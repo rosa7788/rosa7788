@@ -18,11 +18,11 @@
 </p>
 <br>
 
-<p align="center>
+<p align="center">
   Hello! My name is Rosa Meneghetti, and I am a Computer Science student.
-  I am constantly improving my  I enjoy solving problems and building efficient, well-structured solutions.
-  I am particularly interested in Cyber Security and continuously expand my knowledge through academic projects, online courses, and hands-on practice
-  Always open to new challenges and opportunities!
+I am constantly improving my  I enjoy solving problems and building efficient, well-structured solutions.
+I am particularly interested in Cyber Security and continuously expand my knowledge through academic projects, online courses, and hands-on practice.
+Always open to new challenges and opportunities!
   
 </p>
 
@@ -36,6 +36,10 @@
   <a href="https://www.linkedin.com/in/rosa-m-498a02350/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin">
   </a>
+  <a href="mailto:rosa05meneghetti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 <h2 align="center">🤖 My technologies</h2>
 
@@ -58,12 +62,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rosa7788&theme=midnight_purple&utcOffset=8"/>
 </p>
 <br>
-
-  <a href="mailto:rosa05meneghetti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=black&section=footer"/>
