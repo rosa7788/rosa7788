@@ -6,22 +6,23 @@
 
 ## 👩🏻‍💻 Rosa Meneghetti
 
-<div align="center" width="100%">
+<p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=3D1AF7&width=435&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome"
-    style="display: inline-block;"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=3D1AF7&width=600&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome"
+    width="600"
   />
-</div>
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rosa7788&theme=midnight_purple&utcOffset=8)
 
-
+<div align="center" wifth="100%">
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<div/>
 
 
 ![](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Frosameneghettii%2F)
