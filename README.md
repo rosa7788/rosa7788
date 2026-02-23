@@ -23,7 +23,19 @@
   I am constantly improving my  I enjoy solving problems and building efficient, well-structured solutions.
   I am particularly interested in Cyber Security and continuously expand my knowledge through academic projects, online courses, and hands-on practice
   Always open to new challenges and opportunities!
+  
 </p>
+
+<h2 align="center">📩 Contacts</h2>
+
+
+<p align="center">
+  <a href="https://www.instagram.com/rosameneghettii/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/rosa-m-498a02350/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin">
+  </a>
 
 <h2 align="center">🤖 My technologies</h2>
 
@@ -47,16 +59,6 @@
 </p>
 <br>
 
-<h2 align="center">📩 Contacts</h2>
-
-
-<p align="center">
-  <a href="https://www.instagram.com/rosameneghettii/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/rosa-m-498a02350/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin">
-  </a>
   <a href="mailto:rosa05meneghetti@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail">
   </a>
