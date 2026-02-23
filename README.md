@@ -10,10 +10,8 @@
 |
 
 [https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Frosameneghettii%2F)
-
 [https://img.shields.io/badge/Linkedln-000000?style=for-the-badge&logo=Linkedln](https://img.shields.io/badge/Linkedln-000000?style=for-the-badge&logo=Linkedln&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frosa-m-498a02350%2F)
-
-https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail
+[https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&link=rosa05meneghetti%40gmail.com)
 
 
 
