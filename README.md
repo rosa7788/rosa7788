@@ -12,7 +12,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=9745f5&width=600&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=9745f5&center=true&vCenter=true&repeat=false&width=435&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome!"
     width="600"
   />
 </p>
