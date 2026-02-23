@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=black"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=black"/>
 
 <div align="center">
-  <p>LALA</p>
+  <p>ソフトウェア開発</p>
 <div/>
 
 <div align="center" width="100%">
@@ -19,7 +19,7 @@
 [https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&link=rosa05meneghetti%40gmail.com)
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=black&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=black&section=footer"/>
 
 
 
