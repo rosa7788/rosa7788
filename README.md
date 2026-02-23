@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=black&text=Input%20text"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=black"/>
 
 <div align="center">
   <p>LALA</p>
 <div/>
 
 <div align="center" width="100%">
-<img src="(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Oi%2C+meu+nome+%C3%A9+Rosa+Meneghetti)"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Oi%2C+meu+nome+%C3%A9+Rosa+Meneghetti"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=midnight_purple)
@@ -19,7 +19,7 @@
 [https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&link=rosa05meneghetti%40gmail.com)
 
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=black&section=footer"/>
 
 
 
