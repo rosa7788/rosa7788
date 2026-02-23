@@ -1,7 +1,11 @@
-https://capsule-render.vercel.app/api?type=waving&height=130&color=black&text=Input%20text
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=black&text=Input%20text"/>
 
-## Rosa Meneghetti
+<div align="center">
+  <p>LALA</p>
+<div/>
 
+<div align="center" width="100%">
+<img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Oi%2C+meu+nome+%C3%A9+Rosa+Meneghetti)](https://git.io/typing-svg)"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=midnight_purple)
