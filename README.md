@@ -6,9 +6,12 @@
 
 ## 👩🏻‍💻 Rosa Meneghetti
 
-<div align="center"width="100%">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=3D1AF7&width=435&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome)"/>
-
+<div align="center" width="100%">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=3D1AF7&width=435&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome"
+    style="display: inline-block;"
+  />
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=midnight_purple)
