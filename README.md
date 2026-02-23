@@ -1,5 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=black"/>
 
+<p align="center">
+  <img src="https://imgur.com/AVORe28" alt="cat" width="250">
+</p>
+
+
 <div align="center">
   <p>プログラマー</p>
 <div/>
