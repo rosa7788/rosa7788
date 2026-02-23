@@ -1,8 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=black"/>
 
 <p align="center">
-  <img src="<img width="920" height="1082" alt="image" src="https://github.com/user-attachments/assets/71bdba0a-91e1-4d4f-be76-b0d756838f4b" />
-" alt="cat" width="300">
+  <img src="https://imgur.com/AVORe28" width="300">
 </p>
 
 <div align="center">
