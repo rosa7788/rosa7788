@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=black"/>
 
 <p align="center">
-  <img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/xriGFbb"  ><a href="//imgur.com/a/xriGFbb">gato ghibi</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" alt="Minha imagem" width="300">
+  <img src="//s.imgur.com/min/embed.js">
 </p>
 
 <div align="center">
