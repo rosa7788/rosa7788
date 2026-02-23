@@ -6,8 +6,8 @@
   
 <div align="center" width="100%">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Hello!+I'm+Rosa+Meneghetti)"/>
-<div align="center" width="100%">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=3D1AF7&repeat=false&width=435&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome!)"/>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=9745f5&repeat=false&width=435&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome!)"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=midnight_purple)
