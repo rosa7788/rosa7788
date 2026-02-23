@@ -1,11 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=black"/>
 
 <div align="center">
-  <p>ソフトウェア開発</p>
+  <p>プログラマー</p>
 <div/>
 
 <div align="center" width="100%">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Oi%2C+meu+nome+%C3%A9+Rosa+Meneghetti"/>
+
+<div align="center" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Hello!+I'm+Rosa+Meneghetti)](https://git.io/typing-svg)"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=midnight_purple)
@@ -22,26 +25,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=black&section=footer"/>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xriGFbb"  ><a href="//imgur.com/a/xriGFbb">gato ghibi</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
