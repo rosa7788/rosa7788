@@ -1,42 +1,55 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=black"/>
 
 <p align="center">
-  <img src="https://imgur.com/n28ehgb.png" width="300">
+  <img src="https://i.imgur.com/n28ehgb.png" width="300">
 </p>
-
-<div align="center">
-  <p>プログラマー</p>
-<div/>
 
 <p align="center">
-
-## 👩🏻‍💻 Rosa Meneghetti
-
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=9745f5&width=600&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome"
-  width="600"
-/>
+  プログラマー
 </p>
 
+<h2 align="center">👩🏻‍💻 Rosa Meneghetti</h2>
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=9745f5&width=600&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome"
+    width="600"
+  />
+</p>
 
-<div align="center" width="100%">
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<div/>
+<br>
 
+<p align="center">
+  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rosa7788&theme=midnight_purple&utcOffset=8)
+<br>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=midnight_purple"/>
+</p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=midnight_purple"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rosa7788&theme=midnight_purple&utcOffset=8"/>
+</p>
 
-![](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Frosameneghettii%2F)
-![](https://img.shields.io/badge/Linkedln-000000?style=for-the-badge&logo=Linkedln&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frosa-m-498a02350%2F)
-![](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&link=rosa05meneghetti%40gmail.com)
+<br>
+
+<p align="center">
+  <a href="https://www.instagram.com/rosameneghettii/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/rosa-m-498a02350/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:rosa05meneghetti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 
 
