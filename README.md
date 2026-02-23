@@ -27,11 +27,11 @@
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <div/>
 
-<div align="center" width=100%">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rosa7788&theme=midnight_purple&utcOffset=8)
-<div/>
+
 
 
 ![](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Frosameneghettii%2F)
