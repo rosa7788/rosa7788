@@ -1,16 +1,23 @@
-## Hi there 👋
+## Rosa Meneghetti
 
-<!--
-**rosa7788/rosa7788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img align="right" height="470" src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/xriGFbb"  ><a href="//imgur.com/a/xriGFbb">gato ghibi</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>.png" />
