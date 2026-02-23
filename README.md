@@ -7,14 +7,13 @@
 ## 👩🏻‍💻 Rosa Meneghetti
 
 <div align="center"width="100%">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=9745f5&repeat=false&width=435&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=3D1AF7&width=435&lines=I'm+a+computer+science+student;I'm+from+Brazil;Welcome)"/>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rosa7788&theme=midnight_purple&utcOffset=8)
 
-## 🤖 Technologies
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
