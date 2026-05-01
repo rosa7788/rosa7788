@@ -21,7 +21,7 @@
 <p align="center">
   Hello! My name is Rosa Meneghetti, and I am a Computer Science student.
 I am constantly improving my  I enjoy solving problems and building efficient, well-structured solutions.
-I am particularly interested in Cyber Security and continuously expand my knowledge through academic projects, online courses, and hands-on practice.
+I am particularly interested in Artificial Intelligence and continuously expand my knowledge through academic projects, online courses, and hands-on practice.
 Always open to new challenges and opportunities!
   
 </p>
@@ -48,6 +48,8 @@ Always open to new challenges and opportunities!
   <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  
 </p>
 <br>
 
