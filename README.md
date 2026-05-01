@@ -56,6 +56,10 @@ Always open to new challenges and opportunities!
 </p>
 <br>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosa7788&show_icons=true&theme=tokyonight&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosa7788&layout=compact&theme=tokyonight)
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=black&section=footer"/>
 
