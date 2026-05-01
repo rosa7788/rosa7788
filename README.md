@@ -31,13 +31,13 @@ Always open to new challenges and opportunities!
 
 <p align="center">
   <a href="https://www.instagram.com/rosameneghettii/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram" style="display:inline-block;">
   </a>
   <a href="https://www.linkedin.com/in/rosa-m-498a02350/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin" style="display:inline-block;">
   </a>
   <a href="mailto:rosa05meneghetti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail" style="display:inline-block;">
   </a>
 </p>
 
