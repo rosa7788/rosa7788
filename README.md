@@ -60,7 +60,7 @@ Always open to new challenges and opportunities!
 <br>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=black&section=footer"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rosa7788&theme=gotham&border_radius=)](https://git.io/streak-stats)
 
 
 
