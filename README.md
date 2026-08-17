@@ -60,8 +60,7 @@ Always open to new challenges and opportunities!
 <br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rosa7788&theme=gotham&border_radius=)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rosa7788&theme=gotham&border_radius=" alt="GitHub Streak" /></a>
+
 
 
 
