@@ -63,11 +63,13 @@ Always open to new challenges and opportunities!
   <img src="https://streak-stats.demolab.com?user=rosa7788&theme=tokyonight-duo&border_radius=" alt="GitHub Streak" /></a>
 </p>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rosa7788/rosa7788/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rosa7788/rosa7788/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rosa7788/rosa7788/output/snake.svg">
 </picture>
+</p>
 
 
 
