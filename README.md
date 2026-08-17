@@ -55,7 +55,6 @@ Always open to new challenges and opportunities!
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=tokyonight"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rosa7788&theme=tokyonight&utcOffset=8"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rosa7788&theme=tokyonight"/>
 </p>
 <br>
