@@ -54,8 +54,8 @@ Always open to new challenges and opportunities!
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=midnight_purple"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rosa7788&theme=midnight_purple&utcOffset=8"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosa7788&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rosa7788&theme=tokyonight&utcOffset=8"/>
 </p>
 <br>
 
