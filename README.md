@@ -50,7 +50,7 @@ Always open to new challenges and opportunities!
 <h2 align="center">Statistics</h2>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=midnight_purple"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosa7788&theme=tokyonight"/>
 </p>
 
 <p align="center">
