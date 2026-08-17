@@ -60,7 +60,7 @@ Always open to new challenges and opportunities!
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rosa7788&theme=tokyonight&border_radius=" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rosa7788&theme=tokyonight-duo&border_radius=" alt="GitHub Streak" /></a>
 </p>
 
 
