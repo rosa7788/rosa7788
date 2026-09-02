@@ -13,10 +13,10 @@
 <br>
 
 <p align="center">
-  Hello! My name is Rosa Meneghetti, and I am a Computer Science student.
-I am constantly improving my  I enjoy solving problems and building efficient, well-structured solutions.
-I am particularly interested in Artificial Intelligence and continuously expand my knowledge through academic projects, online courses, and hands-on practice.
-Always open to new challenges and opportunities!
+  Olá! Meu nome é Rosa Meneghetti e sou estudante de Ciência da Computação. Estou constantemente aprimorando meus conhecimentos e desenvolvendo minhas habilidades na área de tecnologia.
+  Gosto de resolver problemas e criar soluções eficientes, organizadas e bem estruturadas. Tenho um interesse especial por Inteligência Artificial e busco ampliar continuamente meus       conhecimentos por meio de projetos acadêmicos, cursos online e experiências práticas.
+  Estou sempre aberta a novos desafios, aprendizados e oportunidades para crescer profissionalmente!
+
   
 </p>
 
