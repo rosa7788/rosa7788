@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Estudante de Ciência da Computação | Desenvolvimento de Software | Inteligência Artificial 
+  Computer Science Student | Software Development | Artificial Intelligence
 </p>
 
 <h2 align="center">👩🏻‍💻 Rosa Meneghetti</h2>
