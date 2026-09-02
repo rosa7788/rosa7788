@@ -13,7 +13,6 @@
 <br>
 
 <p align="center">
-  Olá! Meu nome é Rosa Meneghetti.
   Estou constantemente aprimorando meus conhecimentos por meio de projetos acadêmicos, cursos, estudos e, principalmente, colocando a mão na massa.
   Atualmente, venho desenvolvendo minhas habilidades com tecnologias como Python, JavaScript, TypeScript, React, Node.js, SQL e Git/GitHub.
   Em constante aprendizado e sempre pronta para o próximo desafio.
