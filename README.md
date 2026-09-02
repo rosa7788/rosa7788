@@ -13,11 +13,10 @@
 <br>
 
 <p align="center">
-  Olá! Meu nome é Rosa Meneghetti e sou estudante de Ciência da Computação. 
+  Olá! Meu nome é Rosa Meneghetti, sou estudante de Ciência da Computação. 
   Estou constantemente aprimorando meus conhecimentos e desenvolvendo minhas habilidades na área de tecnologia.
-  Gosto de resolver problemas e criar soluções eficientes, organizadas e bem estruturadas. 
-  Tenho um interesse especial por Inteligência Artificial e busco ampliar continuamente meus conhecimentos por meio de projetos acadêmicos, cursos online e experiências práticas.
-  Estou sempre aberta a novos desafios, aprendizados e oportunidades para crescer profissionalmente!
+  Tenho um interesse especial por Inteligência Artificial e busco ampliar continuamente meus conhecimentos.
+  
 
   
 </p>
