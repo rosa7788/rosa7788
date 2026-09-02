@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  プログラマー
+  Estudante de Ciência da Computação | Desenvolvimento de Software | Inteligência Artificial 
 </p>
 
 <h2 align="center">👩🏻‍💻 Rosa Meneghetti</h2>
@@ -13,9 +13,11 @@
 <br>
 
 <p align="center">
-  Olá! Meu nome é Rosa Meneghetti, sou estudante de Ciência da Computação. 
-  Estou constantemente aprimorando meus conhecimentos e desenvolvendo minhas habilidades na área de tecnologia.
-  Tenho um interesse especial por Inteligência Artificial e busco ampliar continuamente meus conhecimentos.
+  Olá! Meu nome é Rosa Meneghetti.
+  Estou constantemente aprimorando meus conhecimentos por meio de projetos acadêmicos, cursos, estudos e, principalmente, colocando a mão na massa.
+  Atualmente, venho desenvolvendo minhas habilidades com tecnologias como Python, JavaScript, TypeScript, React, Node.js, SQL e Git/GitHub.
+  Em constante aprendizado e sempre pronta para o próximo desafio.
+  
   
 
   
